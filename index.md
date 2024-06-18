@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="images/liman.jpg" class="floatpic" width="315" height="226">
+<img src="images/liman.jpg" class="floatpic" width="473" height="339">
 
 Here is **Liman Wang (王莉漫)**.
 
