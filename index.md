@@ -10,7 +10,7 @@ Here is **Liman Wang (王莉漫)**.
 
 <img src="images/liman.jpg" class="floatpic" width="473" height="339">
 
-I am a pre-PhD student in The University of York. I major in Artificial Intelligence and Robotics.
+I am a pre-PhD student at the University of York, UK. I major in Artificial Intelligence and Robotics.
 I graduated with a Master's degree in Intelligent Robotics with first-class honors from the University of York.
 I worked as an NLP algorithm engineer at Schneider Electric (China) Co., Ltd., a Fortune Global 500 company, for 3 years.
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *ssee02131@gmail.com*
