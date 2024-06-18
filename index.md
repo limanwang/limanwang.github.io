@@ -4,46 +4,42 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="images/liman.jpg" class="floatpic" width="315" height="226">
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.
+Here is **Liman Wang (王莉漫)**.
 
-I am a senior undergrad majoring in EECS at Fuzhou University and Maynooth University (Combined degrees). Currently, I serve as a research assistant at the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu) and [Dr. Meng Yuan](https://www.researchgate.net/profile/Meng-Yuan-4). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at Cambridge University. Recently, I have been selected as an **AAAI UC Scholar**.
-
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *hanlin[dot]cai[at]ieee[dot]org*
+I am a pre-PhD student in The University of York. I major in Artificial Intelligence and Robotics.
+I graduated with a Master's degree in Intelligent Robotics with first-class honors from the University of York.
+I worked as an NLP algorithm engineer at Schneider Electric (China) Co., Ltd., a Fortune Global 500 company, for 3 years.
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *ssee02131@gmail.com*
 
 ## Academic Background
 
-- **Sep 2024 - Future：**Cambridge University (Incoming EE MPhil, supervised by [Prof. Ozgur B. Akan](https://ioe.eng.cam.ac.uk/directory/akan))
-- **Sep 2020 - June 2024:** Maynooth University (BSc, EECS)
-- **Sep 2020 - June 2024:** Fuzhou University (BEng, EECS)
-- **June 2022 - Nov 2022:** Cambridge University (Internship)
+- **Sep 2024 - Future：**University of York (Incoming PhD, supervised by [Prof. Jihong Zhu](https://jihong-zhu.github.io/#/))
+- **Sep 2022 - Sep 2023:** University of York (MSc, Intelligent Robotics)
+- **Sep 2015 - June 2019:** Beijing International Studies University (B.M., BDA, Double Degree in English Majors)
 
 ---
 
 ## Research Interests
 
-- Internet of Everything
-- Cyber-Physical System
-- Industrial Informatics
-- Applied Machine Learning
-- [My latest research proposal (Dec 2023)](https://caihanlin.com/file/proposal-2023.pdf)🔗
-
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+- Artificial Intelligence and Entrepreneurship.
+- Large Language Models
+-  Intelligent Robotics, Humanoid Robots
+- Cutting-edge innovation
+- My latest research findings(currently under review by EMNLP 2024): [Not All Bias is Bad: Balancing Rational Deviations and Cognitive Biases in Large Language Model Reasoning](https://arxiv.org/abs/2406.10999#/)🔗
 
 ---
 
 ## News and Updates
 
-- **May 2024：**My undergraduate thesis won the Best Project Award (Top 1/300) 🎉
-- **April 2024：**Our work *BLEGuard* has been accepted to [MobiSys 2024](https://www.sigmobile.org/mobisys/2024/) as a poster paper. See you in Japan!
-- **March 2024：**Very excited to get a MPhil offer from Engineering department at Cambridge University!
-- **Dec 2023：**Very excited to be selected as [AAAI-24 UC Scholar](https://aaai.org/aaai-conference/undergraduate-consortium-program/). See you in Canada!
-- **Dec 2023：**Got a MSc offer from the physics department of Imperial College London.
-- **Aug 2023：**Happy to be awarded the FEPG Scholarship.
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Collected the Finalist Award in MCM 2023 (Top 1%).
-- **Jun 2022：**Started research programme at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò.
+- **April 2024：**Our work *LLM-SAP: Large Language Models Situational Awareness Based Planning* has been accepted to [ICME2024 Workshop-MML4SG](https://vista-h.github.io/MML4SG_2024/#/) . See you in Canada! Preprint version:https://arxiv.org/abs/2312.16127#/🔗
+- **March 2024：**Our work *FENet: Focusing Enhanced Network for Lane Detection* has been accepted to [ICME2024](https://2024.ieeeicme.org/#/) as an Oral paper. See you in Canada! Preprint version: https://arxiv.org/abs/2312.17163#/🔗
+- **March 2024：**Happy to be nominated the CSC Scholarship.
+- **Dec 2023：**Our work *Deformable Object Manipulation in Caregiving Scenarios: A Review* has been published on [MDPI Machines Journal](https://www.mdpi.com/2075-1702/11/11/1013#/) as a journal paper.
+- **Nov 2023：**Earned the first-class honors degree (Distinction, GPA4.0) and secured first place in my major for the Master's degree in Intelligent Robotics at the University of York.
+- **June 2023：**Pleased to have achieved 130% annual performance as an NLP algorithm engineer at Schneider Electric (China) Co., Ltd.
+- **Jun 2022：**As an independent inventor, obtained a national invention patent on knowledge graphs and graph algorithms, issued by the [China National Intellectual Property Administration](https://www.cnipa.gov.cn/#/). Patent number:ZL202011014534.1
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thrilled to be an AAAI-UC Scholar at <a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a>, thanks to <a href="https://twitter.com/hashtag/AAAI?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI</a> &amp; <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> for the sponsorship. Grateful for the knowledge gained and new friendships formed.<br><br>Wonderful trip in Vancouver. Looking forward to staying connected with all.<a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a> <a href="https://twitter.com/hashtag/Vancouver?src=hash&amp;ref_src=twsrc%5Etfw">#Vancouver</a> <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> <a href="https://t.co/wUQUp8XlSM">pic.twitter.com/wUQUp8XlSM</a></p>&mdash; Hanlin CAI (seeking a PhD position 2025) (@lancecai2002) <a href="https://twitter.com/lancecai2002/status/1762210025173344260?ref_src=twsrc%5Etfw">February 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+ 
