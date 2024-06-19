@@ -10,7 +10,7 @@ Here is **Liman Wang (王莉漫)**.
 
 <img src="images/liman.jpg" class="floatpic" width="473" height="339">
 
-I am a pre-PhD student at the [University of York, UK](https://www.york.ac.uk/#/). I major in Large-scale Intelligence and Robotics.
+I am a PhD student at the [University of York, UK](https://www.york.ac.uk/#/). I major in Large-scale Intelligence and Robotics.
 I graduated with a Master's degree in Intelligent Robotics with first-class honors from the University of York.
 I worked as an NLP algorithm engineer at [Schneider Electric (China) Co., Ltd.](https://www.se.com/ww/en/#/), a Fortune Global 500 company, for 3 years.
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *ssee02131@gmail.com*
@@ -29,12 +29,12 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - Large Language Models
 -  Intelligent Robotics, Humanoid Robots
 - Cutting-edge Innovation
-- ✨My latest research findings(under review by EMNLP 2024): [Not All Bias is Bad: Balancing Rational Deviations and Cognitive Biases in Large Language Model Reasoning](https://arxiv.org/abs/2406.10999#/)🔗
+- ✨My new research findings(under review by EMNLP 2024): [Not All Bias is Bad: Balancing Rational Deviations and Cognitive Biases in Large Language Model Reasoning](https://arxiv.org/abs/2406.10999#/)🔗
 
 ---
 
 ## News and Updates
-
+- **March 2024：**Thrilled to receive the CSC Scholarship for my PhD studies at the University of York.
 - **April 2024：**Our work *LLM-SAP: Large Language Models Situational Awareness Based Planning* has been accepted to [ICME2024 Workshop-MML4SG](https://vista-h.github.io/MML4SG_2024/#/) . See you in Canada! Preprint version:https://arxiv.org/abs/2312.16127#/🔗
 - **March 2024：**Our work *FENet: Focusing Enhanced Network for Lane Detection* has been accepted to [ICME2024](https://2024.ieeeicme.org/#/) as an Oral paper. See you in Canada! Preprint version: https://arxiv.org/abs/2312.17163#/🔗
 - **March 2024：**Happy to be nominated the CSC Scholarship at the University of York.
