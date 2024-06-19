@@ -10,7 +10,7 @@ Here is **Liman Wang (王莉漫)**.
 
 <img src="images/liman.jpg" class="floatpic" width="473" height="339">
 
-I am a PhD student at the [University of York, UK](https://www.york.ac.uk/#/). I major in Large-scale Intelligence and Robotics.
+I am PhD student (incoming, Sep 2024) at the [University of York, UK](https://www.york.ac.uk/#/). I major in Large-scale Intelligence and Robotics.
 I graduated with a Master's degree in Intelligent Robotics (first-class honor) from the University of York.
 I worked as an NLP algorithm engineer at [Schneider Electric (China) Co., Ltd.](https://www.se.com/ww/en/#/), a Fortune Global 500 company, for 3 years.
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *ssee02131@gmail.com*
