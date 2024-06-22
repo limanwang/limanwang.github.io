@@ -10,15 +10,15 @@ Here is **Liman Wang (王莉漫)**.
 
 <img src="images/liman.jpg" class="floatpic" width="473" height="339">
 
-I am PhD student (incoming, Sep 2024) at the [University of York, UK](https://www.york.ac.uk/#/). I major in Large-scale Intelligence and Robotics.
-I graduated with a Master's degree in Intelligent Robotics (first-class honor) from the University of York.
+I am PhD student (incoming, Sep 2024) at the [University of York, UK](https://www.york.ac.uk/#/). I major in Large-scale Models and Robotics.
+I graduated with a Master's degree in Intelligent Robotics (first-class honor, with the first place in the class) from the University of York.
 I worked as an NLP algorithm engineer at [Schneider Electric (China) Co., Ltd.](https://www.se.com/ww/en/#/), a Fortune Global 500 company, for 3 years.
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *ssee02131@gmail.com*
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *ssee02131@gmail.com*, or my Wechat EuniceFirewood.
 
 ## Academic Background
 
 - **Sep 2024 - Future：** University of York (Incoming PhD, supervised by [Prof. Jihong Zhu](https://jihong-zhu.github.io/#/))
-- **Sep 2022 - Sep 2023:** University of York (MS., Intelligent Robotics)
+- **Sep 2022 - Sep 2023:** University of York (MSc., Intelligent Robotics)
 - **Sep 2015 - June 2019:** Beijing International Studies University (B.M., BDA, Double Degree in English)
 
 ---
@@ -29,7 +29,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - Large Language Models
 -  Intelligent Robotics, Humanoid Robots
 - Cutting-edge Innovation
-- ✨My new research findings(under review by EMNLP 2024): [Not All Bias is Bad: Balancing Rational Deviations and Cognitive Biases in Large Language Model Reasoning](https://arxiv.org/abs/2406.10999#/)🔗
+- ✨ My new research findings (under review by [EMNLP 2024](https://2024.emnlp.org/#/)): [Not All Bias is Bad: Balancing Rational Deviations and Cognitive Biases in Large Language Model Reasoning](https://arxiv.org/abs/2406.10999#/)🔗
 
 ---
 
