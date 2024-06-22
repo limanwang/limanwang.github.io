@@ -25,8 +25,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Research Interests
 
-- Artificial Intelligence and Entrepreneurship.
-- Large Language Models
+- Large Language Models, Multimodal Large Language Models
 -  Intelligent Robotics, Humanoid Robots
 - Cutting-edge Innovation
 - ✨ My new research findings (under review by [EMNLP 2024](https://2024.emnlp.org/#/)): [Not All Bias is Bad: Balancing Rational Deviations and Cognitive Biases in Large Language Model Reasoning](https://arxiv.org/abs/2406.10999#/)🔗
