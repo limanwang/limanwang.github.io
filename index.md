@@ -26,7 +26,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 ## Research Interests
 
 - Large Language Models, Multimodal Large Language Models
--  Intelligent Robotics, Humanoid Robots
+- Intelligent Robotics, Humanoid Robots
 - Cutting-edge Innovation
 - ✨ My new research findings (under review by [EMNLP 2024](https://2024.emnlp.org/#/)): [Not All Bias is Bad: Balancing Rational Deviations and Cognitive Biases in Large Language Model Reasoning](https://arxiv.org/abs/2406.10999#/)🔗
 
@@ -40,7 +40,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - **Dec 2023：**Our work *Deformable Object Manipulation in Caregiving Scenarios: A Review* has been published on [MDPI Machines Journal](https://www.mdpi.com/2075-1702/11/11/1013#/) 🔗as a journal paper.
 - **Nov 2023：**Earned the first-class honors degree (Distinction, GPA4.0) and secured first place in my major for the Master's degree in Intelligent Robotics at the University of York.
 - **June 2023：**Pleased to have achieved 130% annual performance as an NLP algorithm engineer at Schneider Electric (China) Co., Ltd.
-- **Jun 2022：**As an independent inventor, obtained a national invention patent on knowledge graphs and graph algorithms, issued by the [China National Intellectual Property Administration](https://www.cnipa.gov.cn/#/)🔗. Patent number:ZL202011014534.1
+- **Jun 2022：**As an independent inventor, obtained a national invention patent on knowledge graphs and graph algorithms, issued by the [China National Intellectual Property Administration](https://www.cnipa.gov.cn/#/)🔗. 
 
 
  
