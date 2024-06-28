@@ -33,7 +33,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 ---
 
 ## News and Updates
-- **March 2024：**Thrilled to receive the CSC Scholarship for my PhD studies at the University of York.
+- **June 2024：**Thrilled to receive the CSC Scholarship for my PhD studies at the University of York.
 - **April 2024：**Our work *LLM-SAP: Large Language Models Situational Awareness Based Planning* has been accepted to [ICME2024 Workshop-MML4SG](https://vista-h.github.io/MML4SG_2024/#/) . See you in Canada! [Preprint version download](https://arxiv.org/abs/2312.16127#/)🔗
 - **March 2024：**Our work *FENet: Focusing Enhanced Network for Lane Detection* has been accepted to [ICME2024](https://2024.ieeeicme.org/#/) as an Oral paper. See you in Canada! [Preprint version download](https://arxiv.org/abs/2312.17163#/)🔗
 - **March 2024：**Happy to be nominated the CSC Scholarship at the University of York.
