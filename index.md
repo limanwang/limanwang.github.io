@@ -8,7 +8,7 @@ layout: page
 
 Here is **Liman Wang (王莉漫)**.
 
-<img src="images/liman.jpg" class="floatpic" width="473" height="339">
+<img src="images/liman02.jpg" class="floatpic" width="473" height="339">
 
 I am PhD student (incoming, Sep 2024) at the [University of York, UK](https://www.york.ac.uk/#/). I major in Large-scale Models and Robotics.
 I graduated with a Master's degree in Intelligent Robotics (first-class honor, with the first place in the class) from the University of York.
