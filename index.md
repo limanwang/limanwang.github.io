@@ -19,8 +19,8 @@ If you are interested in any aspect of me, I would love to chat and collaborate.
 ## Academic Background
 
 - **Sep 2024 - Future：** University of York (Incoming PhD, supervised by [Prof. Jihong Zhu](https://jihong-zhu.github.io/#/))
-- **Sep 2022 - Sep 2023:** University of York (MSc., Intelligent Robotics)
-- **Sep 2015 - June 2019:** Beijing International Studies University (B.M., Big Data Analysis, Double Degree in English)
+- **Sep 2022 - Sep 2023：** University of York (MSc, Intelligent Robotics)
+- **Sep 2015 - June 2019：** Beijing International Studies University (B.M, Big Data Analysis, Double Degree in English)
 
 ---
 
