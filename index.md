@@ -12,7 +12,7 @@ Here is **Liman Wang (王莉漫)**.
 
 I am PhD student (incoming, Sep 2024) at the [University of York, UK](https://www.york.ac.uk/#/). I major in Large-scale Models and Robotics.
 I graduated with a Master's degree in Intelligent Robotics (first-class honor, with the first place in the class) from the University of York.
-I worked as an NLP algorithm engineer at [Schneider Electric (China) Co., Ltd.](https://www.se.com/ww/en/#/), a Fortune Global 500 company, for 3 years.
+I worked as an NLP algorithm engineer at [Schneider Electric Co., Ltd.](https://www.se.com/ww/en/#/), a Fortune Global 500 company, for 3 years.
 I love surfskating! 🛹
 If you are interested in any aspect of me, I would love to chat and collaborate.
 
