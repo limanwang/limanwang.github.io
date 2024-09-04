@@ -23,7 +23,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate.
 - Large Language Models, Multimodality
 - Intelligent Robotics
 - 3D Reconstruction, Gaussian Splatting
-- ✨ My new research findings: [Not All Bias is Bad: Balancing Rational Deviations and Cognitive Biases in Large Language Model Reasoning](https://arxiv.org/abs/2406.10999#/)🔗
+- ✨ My new research work: [Balancing Rigor and Utility: Mitigating Cognitive Biases in Large Language Models for Multiple-Choice Questions](https://arxiv.org/abs/2406.10999#/)🔗
 
 ---
 
