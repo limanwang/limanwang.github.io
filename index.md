@@ -10,9 +10,9 @@ Here is **Liman Wang (王莉漫)**.
 
 <img src="images/liman03.jpg" class="floatpic">
 
-I am currently pursuing a PhD in Intelligent Robotics at the [University of York, UK](https://www.york.ac.uk/#/), UK, under the supervision of Professor [Jihong Zhu](https://jihong-zhu.github.io/).
+I am currently pursuing a PhD in Intelligent Robotics at the [University of York](https://www.york.ac.uk/#/), UK, under the supervision of Professor [Jihong Zhu](https://jihong-zhu.github.io/).
 I graduated with a Master's degree in Intelligent Robotics (first-class honor, with the first place in the class) from the University of York.
-I worked as an NLP algorithm engineer at [Schneider Electric Co., Ltd.](https://www.se.com/ww/en/#/), a Fortune Global 500 company, for 3 years.  
+I worked as an Algorithm Engineer at [Schneider Electric Co., Ltd.](https://www.se.com/ww/en/#/), a Fortune Global 500 company, for 3 years.  
 I love surfskating🛹!
 If you are interested in any aspect of me, I would love to chat and collaborate.
 
@@ -37,7 +37,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate.
 
 
 ## News and Updates
-- **✨April 2025: **Our work *Balancing Rigor and Utility: Mitigating Cognitive Biases in Large Language Models for Multiple-Choice Questions* has been accepted as a full paper publication at [CogSci 2025](https://cognitivesciencesociety.org/cogsci-2025/) and will be presented as a poster. See you in San Francisco! [Proceedings paper download](https://www.computer.org/csdl/proceedings-article/icmew/2024/10645429/1ZNT7zHkzew)🔗
+- **April 2025: **Our work✨ *Balancing Rigor and Utility: Mitigating Cognitive Biases in Large Language Models for Multiple-Choice Questions* has been accepted as a full paper publication at [CogSci 2025](https://cognitivesciencesociety.org/cogsci-2025/) and will be presented as a poster. See you in San Francisco! [Proceedings paper download](https://www.computer.org/csdl/proceedings-article/icmew/2024/10645429/1ZNT7zHkzew)🔗
 - **June 2024：**Pleased to receive the full scholarship for my PhD studies at the University of York.
 - **April 2024：**Our work *LLM-SAP: Large Language Models Situational Awareness Based Planning* has been accepted to [ICME 2024 Workshop-MML4SG](https://vista-h.github.io/MML4SG_2024/#/) . See you in Canada! [Proceedings paper download](https://www.computer.org/csdl/proceedings-article/icmew/2024/10645429/1ZNT7zHkzew)🔗
 - **March 2024：**Our work *FENet: Focusing Enhanced Network for Lane Detection* has been accepted to [ICME 2024](https://2024.ieeeicme.org/#/) as an Oral paper. See you in Canada! [Proceedings paper download](https://www.computer.org/csdl/proceedings-article/icme/2024/10687857/20F0GXZBkEU)🔗
