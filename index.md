@@ -20,10 +20,9 @@ If you are interested in any aspect of me, I would love to chat and collaborate.
 
 ## Research Interests
 
-- Large Language Models, Multimodality
-- Intelligent Robotics
-- 3D Reconstruction, Gaussian Splatting
-- ✨ My new research work: [Balancing Rigor and Utility: Mitigating Cognitive Biases in Large Language Models for Multiple-Choice Questions](https://arxiv.org/abs/2406.10999#/)🔗
+- Robotic Perception
+- Dexterous Hand
+- Large Language Models
 
 ---
 
@@ -32,11 +31,13 @@ If you are interested in any aspect of me, I would love to chat and collaborate.
 - IEEE Robotics and Automation Letters (RA-L), 2024
 - IEEE International Conference on Robotics and Automation (ICRA), 2024
 - IEEE International Conference on Multimedia & Expo (ICME), 2024
+- IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025
 
 ---
 
 
 ## News and Updates
+- ✨ **April 2025: **Our work *Balancing Rigor and Utility: Mitigating Cognitive Biases in Large Language Models for Multiple-Choice Questions* has been accepted as a full paper publication at [CogSci 2025](https://cognitivesciencesociety.org/cogsci-2025/) and will be presented as a poster. See you in San Francisco! [Proceedings paper download](https://www.computer.org/csdl/proceedings-article/icmew/2024/10645429/1ZNT7zHkzew)🔗
 - **June 2024：**Pleased to receive the full scholarship for my PhD studies at the University of York.
 - **April 2024：**Our work *LLM-SAP: Large Language Models Situational Awareness Based Planning* has been accepted to [ICME 2024 Workshop-MML4SG](https://vista-h.github.io/MML4SG_2024/#/) . See you in Canada! [Proceedings paper download](https://www.computer.org/csdl/proceedings-article/icmew/2024/10645429/1ZNT7zHkzew)🔗
 - **March 2024：**Our work *FENet: Focusing Enhanced Network for Lane Detection* has been accepted to [ICME 2024](https://2024.ieeeicme.org/#/) as an Oral paper. See you in Canada! [Proceedings paper download](https://www.computer.org/csdl/proceedings-article/icme/2024/10687857/20F0GXZBkEU)🔗
