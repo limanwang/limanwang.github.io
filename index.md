@@ -27,11 +27,11 @@ If you are interested in any aspect of me, I would love to chat and collaborate.
 ---
 
 ## Reviewers
-
-- IEEE Robotics and Automation Letters (RA-L), 2024
-- IEEE International Conference on Robotics and Automation (ICRA), 2024
-- IEEE International Conference on Multimedia & Expo (ICME), 2024
-- IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025
+- Artificial Intelligence Review (AIR)
+- IEEE Robotics and Automation Letters (RA-L)
+- IEEE International Conference on Robotics and Automation (ICRA)
+- IEEE International Conference on Multimedia & Expo (ICME)
+- IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 
 ---
 
