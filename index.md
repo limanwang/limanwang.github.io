@@ -4,9 +4,11 @@ layout: page
 
 # About Me
 
-Here is **Liman Wang (王莉漫)**.
+<div class="about-intro">
 
-<img src="images/liman03.jpg" class="floatpic">
+<div class="about-text">
+
+Here is **Liman Wang (王莉漫)**.
 
 I am a PhD student in Intelligent Robotics at the [University of York](https://www.york.ac.uk/#/), UK, based at the [Institute for Safe Autonomy](https://www.york.ac.uk/safe-autonomy/), under the supervision of Dr. [Jihong Zhu](https://jihong-zhu.github.io/).
 
@@ -15,6 +17,12 @@ My research focuses on **robotic manipulation**, **dexterous hands and grippers*
 Before starting my PhD, I received my Master's degree in Intelligent Robotics from the University of York with **Distinction**, ranking **first in my cohort**. I also worked as an Algorithm Engineer at [Schneider Electric Co., Ltd.](https://www.se.com/ww/en/#/), a Fortune Global 500 company, for three years.
 
 Outside research, I enjoy surfskating 🛹. I am always happy to chat about research ideas, collaboration opportunities, or anything interesting in robotics and AI.
+
+</div>
+
+<img src="images/liman03.jpg" class="about-photo">
+
+</div>
 
 ---
 
@@ -30,17 +38,17 @@ Outside research, I enjoy surfskating 🛹. I am always happy to chat about rese
 
 - **MLLM-Fabric: Multimodal Large Language Model-Driven Robotic Framework for Fabric Sorting and Selection**  
   **Liman Wang**, et al.  
-  *IEEE Robotics and Automation Letters (RA-L), to be presented at ICRA 2026*  
+  *IEEE Robotics and Automation Letters (RA-L), to be presented at IEEE International Conference on Robotics and Automation (ICRA), 2026*  
   [Preprint](https://arxiv.org/abs/2507.04351) 🔗
 
 - **Balancing Rigor and Utility: Mitigating Cognitive Biases in Large Language Models for Multiple-Choice Questions**  
   **Liman Wang**, et al.  
-  *CogSci 2025, Full Paper*  
+  *Proceedings of the Annual Meeting of the Cognitive Science Society, 2025, Full Paper*  
   [Preprint](https://arxiv.org/abs/2406.10999) 🔗
 
 - **LLM-SAP: Large Language Models Situational Awareness Based Planning**  
   **Liman Wang**, et al.  
-  *ICME 2024 Workshop on Multimodal Learning for Social Good*  
+  *IEEE International Conference on Multimedia & Expo Workshops (ICMEW), Workshop on Multimodal Learning for Social Good, 2024*  
   [Proceedings](https://www.computer.org/csdl/proceedings-article/icmew/2024/10645429/1ZNT7zHkzew) 🔗
 
 - **FENet: Focusing Enhanced Network for Lane Detection**  
@@ -50,7 +58,7 @@ Outside research, I enjoy surfskating 🛹. I am always happy to chat about rese
 
 - **Deformable Object Manipulation in Caregiving Scenarios: A Review**  
   **Liman Wang**, et al.  
-  *Machines, 2023*  
+  *Machines, 2023, 11(11), 1013*  
   [Journal Paper](https://www.mdpi.com/2075-1702/11/11/1013#/) 🔗
 
 ---
