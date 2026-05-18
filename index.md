@@ -4,9 +4,7 @@ layout: page
 
 # About Me
 
-<div class="about-intro">
-
-<div class="about-text">
+<img src="images/liman03.jpg" class="floatpic">
 
 Here is **Liman Wang (王莉漫)**.
 
@@ -18,11 +16,7 @@ Before starting my PhD, I received my Master's degree in Intelligent Robotics fr
 
 Outside research, I enjoy surfskating 🛹. I am always happy to chat about research ideas, collaboration opportunities, or anything interesting in robotics and AI.
 
-</div>
-
-<img src="images/liman03.jpg" class="about-photo">
-
-</div>
+<div style="clear: both;"></div>
 
 ---
 
