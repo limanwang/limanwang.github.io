@@ -12,7 +12,7 @@ I am a PhD student in Intelligent Robotics at the [University of York](https://w
 
 My research focuses on **robotic manipulation**, **dexterous hands and grippers**, and **multimodal AI for robotics**.
 
-Before starting my PhD, I received my Master's degree in Intelligent Robotics from the University of York with **Distinction**, ranking **first in my cohort**. I also worked as an Algorithm Engineer at [Schneider Electric Co., Ltd.](https://www.se.com/ww/en/#/), a Fortune Global 500 company, for three years.
+Before starting my PhD, I received my Master's degree in Intelligent Robotics from the University of York with **Distinction**, ranking **first in my cohort**. Previously, I worked as an Algorithm Engineer at [Schneider Electric](https://www.se.com/ww/en/#/) for three years.
 
 Outside research, I enjoy surfskating 🛹. I am always happy to chat about research ideas, collaboration opportunities, or anything interesting in robotics and AI.
 
