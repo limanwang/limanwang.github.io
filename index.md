@@ -8,9 +8,9 @@ Here is **Liman Wang (王莉漫)**.
 
 <img src="images/liman03.jpg" class="floatpic">
 
-I am a PhD student in Intelligent Robotics at the [University of York](https://www.york.ac.uk/#/), UK, under the supervision of Professor [Jihong Zhu](https://jihong-zhu.github.io/).
+I am a PhD student in Intelligent Robotics at the [University of York](https://www.york.ac.uk/#/), UK, based at the [Institute for Safe Autonomy](https://www.york.ac.uk/safe-autonomy/), under the supervision of Dr. [Jihong Zhu](https://jihong-zhu.github.io/).
 
-My research focuses on **robotic manipulation**, **dexterous hands and grippers**, and **multimodal/generative artificial intelligence**. I am particularly interested in building intelligent robotic systems that can perceive, reason, and manipulate objects in complex real-world scenarios.
+My research focuses on **robotic manipulation**, **dexterous hands and grippers**, and **multimodal AI for robotics**.
 
 Before starting my PhD, I received my Master's degree in Intelligent Robotics from the University of York with **Distinction**, ranking **first in my cohort**. I also worked as an Algorithm Engineer at [Schneider Electric Co., Ltd.](https://www.se.com/ww/en/#/), a Fortune Global 500 company, for three years.
 
@@ -22,9 +22,7 @@ Outside research, I enjoy surfskating 🛹. I am always happy to chat about rese
 
 - Robotic Manipulation
 - Dexterous Hands and Grippers
-- Deformable Object Manipulation
-- Multimodal Large Language Models
-- Generative Artificial Intelligence for Robotics
+- Multimodal AI for Robotics
 
 ---
 
