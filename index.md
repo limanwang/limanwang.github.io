@@ -27,11 +27,12 @@ If you are interested in any aspect of me, I would love to chat and collaborate.
 ---
 
 ## Reviewers
-- Artificial Intelligence Review (AIR)
-- IEEE Robotics and Automation Letters (RA-L)
+- Conference on Robot Learning (CoRL)
 - IEEE International Conference on Robotics and Automation (ICRA)
-- IEEE International Conference on Multimedia & Expo (ICME)
+- IEEE Robotics and Automation Letters (RA-L)
 - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+- Artificial Intelligence Review (AIR)
+- IEEE International Conference on Multimedia & Expo (ICME)
 
 ---
 
