@@ -132,12 +132,6 @@ layout: page
     </p>
 
     <p>
-      My research focuses on <strong>robot Learning in Manipulation</strong>,
-      <strong>dexterous Hands</strong>, and
-      <strong>VLA models</strong>.
-    </p>
-
-    <p>
       Before starting my PhD, I received my Master's degree in Intelligent Robotics
       from the University of York with <strong>Distinction</strong>, ranking
       <strong>first in my cohort</strong>. Previously, I worked as an Algorithm Engineer
