@@ -129,9 +129,7 @@ layout: page
       <a href="https://www.york.ac.uk/safe-autonomy/">Institute for Safe Autonomy</a>,
       under the supervision of Dr.
       <a href="https://jihong-zhu.github.io/">Jihong Zhu</a>.
-    </p>
 
-    <p>
       Before starting my PhD, I received my Master's degree in Intelligent Robotics
       from the University of York with <strong>Distinction</strong>, ranking
       <strong>first in my cohort</strong>. Previously, I worked as an Algorithm Engineer
