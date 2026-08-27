@@ -2,23 +2,74 @@
 layout: page
 ---
 
+<style>
+/* 全局段落样式 */
+p {
+  text-indent: 0 !important;
+  margin-top: 0;
+  margin-bottom: 0.9em;
+  line-height: 1.65;
+}
+
+/* About Me 两栏布局 */
+.about-container {
+  display: flex;
+  align-items: flex-start;
+  gap: 40px;
+}
+
+/* 左侧文字 */
+.about-text {
+  flex: 1;
+  min-width: 0;
+}
+
+/* 右侧头像 */
+.about-photo {
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 50%;
+  flex-shrink: 0;
+  margin-top: 5px;
+}
+
+/* 手机端自动变成上下布局 */
+@media (max-width: 768px) {
+  .about-container {
+    flex-direction: column-reverse;
+    gap: 20px;
+  }
+
+  .about-photo {
+    width: 150px;
+    height: 150px;
+    margin: 0 auto;
+  }
+}
+</style>
+
 # About Me
 
-<img src="images/bio.png"
-     alt="Liman Wang"
-     style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%; float: right; margin: 0 0 20px 30px;">
+<div class="about-container">
+
+<div class="about-text">
 
 Here is **Liman Wang (王莉漫)**.
 
-I am a PhD student in Intelligent Robotics at the [University of York](https://www.york.ac.uk/#/), UK, based at the [Institute for Safe Autonomy](https://www.york.ac.uk/safe-autonomy/), under the supervision of Dr. [Jihong Zhu](https://jihong-zhu.github.io/).
+I am a PhD student in Intelligent Robotics at the [University of York](https://www.york.ac.uk/), UK, based at the [Institute for Safe Autonomy](https://www.york.ac.uk/safe-autonomy/), under the supervision of Dr. [Jihong Zhu](https://jihong-zhu.github.io/).
 
 My research focuses on **robotic manipulation**, **dexterous hands and grippers**, and **multimodal AI for robotics**.
 
-Before starting my PhD, I received my Master's degree in Intelligent Robotics from the University of York with **Distinction**, ranking **first in my cohort**. Previously, I worked as an Algorithm Engineer at [Schneider Electric](https://www.se.com/ww/en/#/) for three years.
+Before starting my PhD, I received my Master's degree in Intelligent Robotics from the University of York with **Distinction**, ranking **first in my cohort**. Previously, I worked as an Algorithm Engineer at [Schneider Electric](https://www.se.com/ww/en/) for three years.
 
 Outside research, I enjoy surfskating 🛹. I am always happy to chat about research ideas, collaboration opportunities, or anything interesting in robotics and AI.
 
-<div style="clear: both;"></div>
+</div>
+
+<img src="images/bio.png" alt="Liman Wang" class="about-photo">
+
+</div>
 
 ---
 
@@ -55,11 +106,12 @@ Outside research, I enjoy surfskating 🛹. I am always happy to chat about rese
 - **Deformable Object Manipulation in Caregiving Scenarios: A Review**  
   **Liman Wang**, et al.  
   *Machines, 2023, 11(11), 1013*  
-  [Journal Paper](https://www.mdpi.com/2075-1702/11/11/1013#/) 🔗
+  [Journal Paper](https://www.mdpi.com/2075-1702/11/11/1013/) 🔗
 
 ---
 
 ## Reviewing Service
+
 - IEEE Transactions on Automation Science and Engineering (T-ASE)
 - Conference on Robot Learning (CoRL)
 - IEEE International Conference on Robotics and Automation (ICRA)
@@ -78,14 +130,14 @@ Outside research, I enjoy surfskating 🛹. I am always happy to chat about rese
 
 - **June 2024:** I received a full scholarship for my PhD studies at the University of York.
 
-- **April 2024:** Our work *LLM-SAP: Large Language Models Situational Awareness Based Planning* has been accepted to the [ICME 2024 Workshop on Multimodal Learning for Social Good](https://vista-h.github.io/MML4SG_2024/#/). See you in Canada! [Proceedings](https://www.computer.org/csdl/proceedings-article/icmew/2024/10645429/1ZNT7zHkzew) 🔗
+- **April 2024:** Our work *LLM-SAP: Large Language Models Situational Awareness Based Planning* has been accepted to the [ICME 2024 Workshop on Multimodal Learning for Social Good](https://vista-h.github.io/MML4SG_2024/). See you in Canada! [Proceedings](https://www.computer.org/csdl/proceedings-article/icmew/2024/10645429/1ZNT7zHkzew) 🔗
 
-- **March 2024:** Our work *FENet: Focusing Enhanced Network for Lane Detection* has been accepted to [ICME 2024](https://2024.ieeeicme.org/#/) as an oral paper. See you in Canada! [Proceedings](https://www.computer.org/csdl/proceedings-article/icme/2024/10687857/20F0GXZBkEU) 🔗
+- **March 2024:** Our work *FENet: Focusing Enhanced Network for Lane Detection* has been accepted to [ICME 2024](https://2024.ieeeicme.org/) as an oral paper. See you in Canada! [Proceedings](https://www.computer.org/csdl/proceedings-article/icme/2024/10687857/20F0GXZBkEU) 🔗
 
-- **Dec 2023:** Our work *Deformable Object Manipulation in Caregiving Scenarios: A Review* has been published in [Machines](https://www.mdpi.com/2075-1702/11/11/1013#/) as a journal paper. 🔗
+- **Dec 2023:** Our work *Deformable Object Manipulation in Caregiving Scenarios: A Review* has been published in [Machines](https://www.mdpi.com/2075-1702/11/11/1013/) as a journal paper. 🔗
 
 - **Nov 2023:** I received my Master's degree in Intelligent Robotics from the University of York with Distinction, ranking first in my cohort.
 
 - **June 2023:** I achieved 130% annual performance as an NLP Algorithm Engineer at Schneider Electric (China) Co., Ltd.
 
-- **June 2022:** As an independent inventor, I obtained a national invention patent on knowledge graphs and graph algorithms, issued by the [China National Intellectual Property Administration](https://www.cnipa.gov.cn/#/). 🔗
+- **June 2022:** As an independent inventor, I obtained a national invention patent on knowledge graphs and graph algorithms, issued by the [China National Intellectual Property Administration](https://www.cnipa.gov.cn/). 🔗
