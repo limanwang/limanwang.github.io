@@ -4,7 +4,9 @@ layout: page
 
 # About Me
 
-<img src="images/liman03.jpg" class="floatpic">
+<img src="images/bio.png"
+     alt="Liman Wang"
+     style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%; float: right; margin: 0 0 20px 30px;">
 
 Here is **Liman Wang (王莉漫)**.
 
