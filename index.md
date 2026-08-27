@@ -132,9 +132,9 @@ layout: page
     </p>
 
     <p>
-      My research focuses on <strong>robotic manipulation</strong>,
-      <strong>dexterous hands and grippers</strong>, and
-      <strong>multimodal AI for robotics</strong>.
+      My research focuses on <strong>robot Learning in Manipulation</strong>,
+      <strong>dexterous Hands</strong>, and
+      <strong>VLA models</strong>.
     </p>
 
     <p>
@@ -147,11 +147,11 @@ layout: page
 </div>
 
 <section>
-  <h2>Research Interests</h2>
+  <h2>Research Focuses</h2>
   <ul class="interests">
     <li>Robot Learning in Manipulation</li>
-    <li>Dexterous Hand Manipulation</li>
-    <li>VLA</li>
+    <li>Dexterous Hands</li>
+    <li>VLA models</li>
   </ul>
 </section>
 
