@@ -124,7 +124,7 @@ layout: page
     <h1>Liman Wang (王莉漫)</h1>
 
     <p>
-      I am a PhD student in Intelligent Robotics at the
+      I am a 3rd year PhD student in Intelligent Robotics at the
       <a href="https://www.york.ac.uk/#/">University of York</a>, UK, based at the
       <a href="https://www.york.ac.uk/safe-autonomy/">Institute for Safe Autonomy</a>,
       under the supervision of Dr.
@@ -149,9 +149,9 @@ layout: page
 <section>
   <h2>Research Interests</h2>
   <ul class="interests">
-    <li>Robotic Manipulation</li>
-    <li>Dexterous Hands and Grippers</li>
-    <li>Multimodal AI for Robotics</li>
+    <li>Robot Learning in Manipulation</li>
+    <li>Dexterous Hand Manipulation</li>
+    <li>VLA</li>
   </ul>
 </section>
 
