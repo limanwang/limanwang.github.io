@@ -131,8 +131,8 @@ layout: page
       <a href="https://jihong-zhu.github.io/">Jihong Zhu</a>.
 
       Before starting my PhD, I received my Master's degree in Intelligent Robotics
-      from the University of York with <strong>Distinction</strong>, ranking
-      <strong>first in my cohort</strong>. Previously, I worked as an Algorithm Engineer
+      from the University of York with Distinction, ranking
+      first in my cohort. Previously, I worked as an Algorithm Engineer
       at <a href="https://www.se.com/ww/en/#/">Schneider Electric</a> for three years.
     </p>
   </div>
