@@ -71,6 +71,34 @@ layout: page
   color: #555;
 }
 
+.publication.featured {
+  padding: 16px 18px;
+  border: 1px solid #e5e5e5;
+  border-left: 4px solid #d9480f;
+  border-radius: 6px;
+  background: #fbf8f4;
+}
+
+.publication.featured .publication-title {
+  font-size: 1.08rem;
+}
+
+.badge-new {
+  display: inline-block;
+  margin-right: 8px;
+  padding: 1px 8px;
+  border-radius: 99px;
+  background: #d9480f;
+  color: #fff;
+  font-size: 0.8rem;
+  font-weight: 600;
+  vertical-align: 2px;
+}
+
+.publication-links a + a {
+  margin-left: 14px;
+}
+
 .service-list {
   columns: 2;
   column-gap: 36px;
@@ -150,6 +178,24 @@ layout: page
 <section>
   <h2>Selected Publications</h2>
 
+  <div class="publication featured">
+    <div class="publication-title">
+      <span class="badge-new">New</span>DexRemo: A Force-Sensing Hand Platform and Task Suite for Contact-Rich Removal Manipulation
+    </div>
+    <div>
+      <strong>Liman Wang</strong><sup>&dagger;</sup>, Hanyang Zhong<sup>&dagger;</sup>, Sun Zhaole, Wenting Cao,
+      Babar Jamil, Andy Tyrrell, Shan Luo, Jihong Zhu
+      &nbsp;<span class="publication-meta">(<sup>&dagger;</sup>equal contribution)</span>
+    </div>
+    <div class="publication-meta">
+      <em>IEEE Transactions on Robotics (T-RO), 2026, accepted</em>
+    </div>
+    <div class="publication-links">
+      <a href="https://dexremo.github.io">Project Page</a>
+      <!-- When the arXiv number is known, add: <a href="https://arxiv.org/abs/XXXX.XXXXX">Preprint</a> -->
+    </div>
+  </div>
+
   <div class="publication">
     <div class="publication-title">
       MLLM-Fabric: Multimodal Large Language Model-Driven Robotic Framework for Fabric Sorting and Selection
@@ -228,6 +274,13 @@ layout: page
 <section>
   <h2>News and Updates</h2>
   <ul class="news">
+    <li>
+      <span class="news-date">Nov 2026</span>
+      Our paper <em>DexRemo: A Force-Sensing Hand Platform and Task Suite for Contact-Rich Removal Manipulation</em>
+      has been accepted to <em>IEEE Transactions on Robotics (T-RO)</em>.
+      <a href="https://dexremo.github.io">Project Page</a>
+    </li>
+
     <li>
       <span class="news-date">Oct 2025</span>
       Our paper <em>MLLM-Fabric</em> has been accepted to <em>IEEE Robotics and Automation Letters (RA-L)</em> and will be presented at ICRA 2026.
