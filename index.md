@@ -171,7 +171,7 @@ layout: page
   <ul class="interests">
     <li>Robot Learning in Manipulation</li>
     <li>Dexterous Hands</li>
-    <li>VLA models</li>
+    <li>Agentic Robotics</li>
   </ul>
 </section>
 
