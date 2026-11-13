@@ -192,7 +192,7 @@ layout: page
     </div>
     <div class="publication-links">
       <a href="https://dexremo.github.io">Project Page</a>
-      <!-- When the arXiv number is known, add: <a href="https://arxiv.org/abs/XXXX.XXXXX">Preprint</a> -->
+      <a href="https://arxiv.org/abs/2611.15981">Preprint</a>
     </div>
   </div>
 
@@ -279,6 +279,7 @@ layout: page
       Our paper <em>DexRemo: A Force-Sensing Hand Platform and Task Suite for Contact-Rich Removal Manipulation</em>
       has been accepted to <em>IEEE Transactions on Robotics (T-RO)</em>.
       <a href="https://dexremo.github.io">Project Page</a>
+      <a href="https://arxiv.org/abs/2611.15981">Preprint</a>
     </li>
 
     <li>
