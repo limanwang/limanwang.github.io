@@ -261,8 +261,9 @@ layout: page
 <section>
   <h2>Reviewing Service</h2>
   <ul class="service-list">
-    <li>IEEE Transactions on Automation Science and Engineering (T-ASE)</li>
+    <li>Robotics: Science and Systems (RSS)</li>
     <li>Conference on Robot Learning (CoRL)</li>
+    <li>IEEE Transactions on Automation Science and Engineering (T-ASE)</li>
     <li>IEEE International Conference on Robotics and Automation (ICRA)</li>
     <li>IEEE Robotics and Automation Letters (RA-L)</li>
     <li>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</li>
